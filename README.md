@@ -1,11 +1,13 @@
-This is a circle animated responsive navigation menu.
+## This is a circle animated responsive navigation menu.
 
-Technologies Used:
+#### Technologies Used:
 
-HTML5
+* HTML5
 
-CSS3
+* CSS3
 
-Javascript
+* Javascript
 
-You can commit to this project
+### License : MIT
+
+### You are welcome to update this source code if it contain any miss mathces.
